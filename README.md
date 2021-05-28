@@ -1,1 +1,2 @@
-# MatplotLibrary_Practice
+# plotLibrary_Practice
+1. Matplotlib
