@@ -3,3 +3,4 @@
 2. Vectors_1
 3. Student T-test
 4. Kaggle - Titanic Prediction 
+5. Kaggle - Bike Sharing Demand
